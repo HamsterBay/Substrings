@@ -10,4 +10,4 @@ More about [string searching algorithms](https://en.wikipedia.org/wiki/String_se
 
 ## Authors
 
-* **Kasia Vasiluk** - *Hamster Bay* [github: Chomcio](https://github.com/HamsterBay)
+* **Kasia Vasiluk** - *Hamster Bay* [github: HamsterBay](https://github.com/HamsterBay)
